@@ -1,7 +1,10 @@
 # PROGRAMACIÓN 1
+
+<div style = "padding:5px">
+
 ## Contenido
 
-En este repositorio, solo hay archivos .cc y apuntes en PDF complementarios para ayudar a superar los problemas de *Jutge*. Encontraras apuntes en [**Apunts**](./Apunts), ejercicios en [**Exercicis**](./Exercicis/) y examenes en [**Examens**](./Examens). 
+En este repositorio, solo hay archivos .cc y apuntes en PDF complementarios para ayudar a superar los problemas de *Jutge*. Encontraras apuntes en [**Apunts**](./Apunts), ejercicios en [**Exercicis**](./Exercicis/) y examenes en [**Examens**](./Examens/). 
 
 Para más apuntes, encontrarás mucho más en **Material Docente**.
 
@@ -23,3 +26,5 @@ A continuación encontraréis los siguientes enlaces web para encontrar la docum
 - [**Emma Rollon Teaching**](https://www.cs.upc.edu/erollon/joomla/index.php?option=com_content&view=article&id=52&Itemid=27) : Página web de la coordinadora de PRO1.
 
 - [**PRO1**](https://pro1.cs.upc.edu/) : Página web de la propia asignatura.
+
+</div>
